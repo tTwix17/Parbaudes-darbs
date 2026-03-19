@@ -1,1 +1,1 @@
-map mape ir 11 faili, projekta ir pieci zari - feater/advance, test/best, master, welcome/zdarova, feature/login
+mape ir 11 faili, projekta ir pieci zari - feater/advance, test/best, master, welcome/zdarova, feature/login
