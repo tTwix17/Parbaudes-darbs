@@ -150,7 +150,6 @@ section {
 
 .old-price {
   text-decoration: line-through;
-  color: #553A41;
   font-size: 14px;
 }
 
@@ -158,24 +157,6 @@ section {
   color: #3A6EA5;
   font-weight: 700;
   font-size: 18px;
-}
-
-.badge {
-  background: #BB7E8C;
-  color: #fff;
-  padding: 5px 12px;
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  font-weight: 700;
-  font-size: 12px;
-  border-radius: 4px;
-  text-transform: uppercase;
-}
-
-
-.badge.new {
-  background: #3A6EA5;
 }
 
 .controls-bar {
