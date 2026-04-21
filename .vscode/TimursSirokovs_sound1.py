@@ -12,7 +12,7 @@ notes = {
     ' ': 37
 }
 
-melodie = 'EEFG GFED CCDE EDD'
+melodie = 'CDEG GFED ABCA GFE'
 
 for note in melodie:
     if note in notes:
